@@ -1,0 +1,22 @@
+.menu-nav{
+    text-decoration: none;
+    color: gray;
+}
+#terminos-menu-nav{
+    margin-right: 130px;
+}
+.lista{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.menu .vertical li a:hover{
+    color: whitesmoke;
+    background-color: limegreen;
+}
+.primary.callout{
+    background-color: transparent;
+    border: 0;
+}
+footer p, a{
+    color: whitesmoke;
+}
